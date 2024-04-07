@@ -1,0 +1,45 @@
+[
+  {
+    "s2id_id_visa_type": "جهانگردی",                                        --> نوع روادید
+    "s2id_id_nationality": "افغانستان",                                     -->ملیت
+    "s2id_id_passport_type": "عادی",                                        -->نوع گذرنامه
+    "s2id_id_issuer_agent": "سفارت جمهوری اسلامی ایران- اسلو",               -->محل اخذ روادید
+    "id_first_name": "SULTAN MOHAMAD",                                      -->نام
+    "id_last_name": "NAIMATULLAH",                                          -->نام خانوادگی
+    "id_father_name": "ABDUL ZAHER",                                        -->نام پدر
+    "s2id_id_gender": "زن",                                                 --> جنسیت
+    "s2id_id_last_nationality": "افغانستان",                                -->تابعیت قبلی
+    "s2id_id_birth_place": "افغانستان",                                     -->محل تولد
+    "id_birth_date": "1922/03/24",                                          -->تاریخ تولد
+    "s2id_id_marriage_status": "متاهل",                                     -->وضعیت تاهل
+    "id_job": "آرایشگر",                                                    -->شغل
+    "id_picture": "/home/amir/Desktop/sefarat/ABDUL RAOUF FO.jpg",          -->عکس پرسنلی
+    "id_phone_number": "0788745432",                                        -->شماره تلفن متقاضی
+    "id_mobile": "0788745431",                                              -->شماره همراه متقاضی
+    "id_email": "example@email.com",                                        -->ایمیل
+    "id_postal_code": "",                                                   -->کد پستی
+    "id_residence_address": "afqanestan,kabol",                             -->آدرس محل اقامت
+    "id_iran_phone_number": "98021332111",                                  -->شماره تلفن در ایران
+    "id_iran_address": "iran,tehran",                                       -->آدرس در ایران
+    "id_passport_number": "p030355672",                                     -->شماره گذرنامه
+    "id_passport_issue_date": "2023/03/28",                                 -->تاریخ صدور
+    "id_expire_date": "2027/04/07",                                         -->تاریخ انقضا
+    "id_passport_image": "/home/amir/Desktop/sefarat/ABDUL RAOUF PA.jpg",   -->تصویر گذرنامه
+    "s2id_id_duration": "45",                                               -->مدت (روز)
+    "s2id_id_entry_option": "یکبار",                                        --> نوع ورود
+    "id_extra_country_2141": "",                                            -->تصویر مهر تمدید اعتبار گذرنامه
+    "id_extra_country_2221": "",                                            -->کارت اقامت
+    "id_extra_country_2231": "",                                            -->تصویر پشت کارت اقامت
+    "id_extra_741" : ""                                                     -->هدف از سفر
+    "id_extra_751": ""                                                      --> تاریخ تقریبی ورود
+    "id_extra_761": ""                                                      -->تاریخ تقریبی خروج
+    "id_extra_1541": ""                                                     -->کارت اقامت در صورت نیاز
+
+    "id_extra_441" : ""                                                     -->کارت اقامت در صورت نیاز --> جهان گردی
+    "id_extra_621" : ""                                                      --> تاریخ تقریبی ورود-->جهان گردی
+    "id_extra_631" :""                                                      --> تاریخ تقریبی خروج-->جهان گردی
+    id_extra_2001 : ""                                                      --> جهانگردی --> کارت ملی میزبان
+
+
+      }
+]
